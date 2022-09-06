@@ -1,0 +1,21 @@
+.a1{
+    background-color: pink;
+    color: black;
+    width: 334px;
+    height: 334px;
+}
+
+.a2{
+    background-color: aquamarine;
+    color: brown;
+    width: 480px;
+    height: 480px;
+}
+
+.a3{
+    background-color: rgb(239, 188, 21);
+    color: blue;
+    width: 570px;
+    height: 570px;
+    border-radius: 100%;
+}
